@@ -14,12 +14,12 @@ header {
     font-weight: bold;
     text-align: center;
     height: 40%;
-    padding: 100px;
+    padding: 75px;
     background-color: #4F697B;
 }
 
 section{
-    height: 100vh;
+    height: 100px;
 }
 
 nav {
@@ -45,7 +45,7 @@ article {
 }
 
 img{
-    width: 100px;
+    width: 300px;
 }
 
 footer {
